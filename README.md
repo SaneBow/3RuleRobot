@@ -2,6 +2,8 @@
 
 ## A simple robot demonstration
 
+![Animation](https://raw.githubusercontent.com/SaneBow/3RuleRobot/master/animation.gif)
+
 > I remember I saw this kind of simple rule robot experiment in a TV program on CCTV 9 when I was in high school.  
 > When I was in my fresh year of undergraduate, memory recalled and I decided to write a program to simulate it.
 > However, I can't find the source of this idea since I did't remember the TV programe name.
