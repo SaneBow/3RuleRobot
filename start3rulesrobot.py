@@ -152,7 +152,8 @@ class Starter(PygameHelper):
       
         
     def keyUp(self, key):
-        pass
+        if key == K_p:
+            self.waitForKey()
         
     def mouseUp(self, button, pos):
         pass
